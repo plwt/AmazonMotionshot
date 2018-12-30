@@ -1,6 +1,6 @@
 # AmazonMotionshot
 
-AmazonMotionshot is a little script designed for Linux that will send commands to Android Debug Bridge (ADB) to take a 30 second .mp4 of content from Amazon Fire TV, copy it to the users computer and remove it from the Amazon Fire TV device.
+AmazonMotionshot is a little script designed for Linux that will send commands to Android Debug Bridge (ADB) to take a 10 second .mp4 of content from Amazon Fire TV, copy it to the users computer and remove it from the Amazon Fire TV device.
 
 The attached file is made up of three elements:
 
